@@ -6,8 +6,10 @@ name = "pypi"
 [packages]
 flask = "*"
 python-dotenv = "*"
+jinja2 = "*"
+flask-wtf = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.11"
